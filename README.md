@@ -24,5 +24,7 @@ When you're taking your online or in-person coding challenge, you will be time r
 Some of these include:
 
 for strings: indexOf (which finds the index of a string within a string), substr() (which returns a substring from within a string), and split() (which returns a string split into an array)
-for arrays: sort() (sorts an array), map() (puts each element into a function and stores the return values into a new array), and join() (combines all the elements of an array into a string)\
+
+for arrays: sort() (sorts an array), map() (puts each element into a function and stores the return values into a new array), and join() (combines all the elements of an array into a string)
+
 for numbers: parseInt() (converts a string into an integer if it contains integers), parseFloat() (converts a string into a floating point number if it contains a floating point number), isNan() (used to test if a variable is a number, returns true if variable is NOT a number, and false if variable is a number).
