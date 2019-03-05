@@ -1,6 +1,6 @@
 # js-daily-practice
 
-All of this exercises are taken from a mailing list I receive everyday at https://www.dailyjavascript.io
+All of this exercises are taken from a mailing list I receive everyday from https://www.dailyjavascript.io
 
 # Day 1
 
