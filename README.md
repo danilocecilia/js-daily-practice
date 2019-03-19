@@ -1,5 +1,7 @@
 # js-daily-practice
 
+All of this exercises are taken from a mailing list I receive everyday from https://www.dailyjavascript.io
+
 # Day 1
 
 In Unix based systems, to get to a directory, a series of directory names, slashes, and single and 
@@ -28,3 +30,14 @@ for strings: indexOf (which finds the index of a string within a string), substr
 for arrays: sort() (sorts an array), map() (puts each element into a function and stores the return values into a new array), and join() (combines all the elements of an array into a string)
 
 for numbers: parseInt() (converts a string into an integer if it contains integers), parseFloat() (converts a string into a floating point number if it contains a floating point number), isNan() (used to test if a variable is a number, returns true if variable is NOT a number, and false if variable is a number).
+
+# Day 03
+
+You are given an integer and you have to return a new integer that is the square of every digit in the 
+original integer. For example:
+
+12 = 14 because 1 squared is 1, and 2 squared is 4.
+1361 = 19361 because 1 squared is 1, 3 squared is 9, 6 squared is 36, and 1 squared is 1.
+
+Make a function called makeSquares() that takes an integer as an input, and returns a new integer in which the 
+digits are the squares of the input integer.
